@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-CloakOfDarkness",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CDGameWorld",
+	"pools" : [
+		 ],
+	"super" : "GameWorld",
+	"type" : "normal" }

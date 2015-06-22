@@ -1,0 +1,18 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"noun",
+		"longDescription",
+		"shortDescription",
+		"longDescriptionSeen" ],
+	"name" : "Describable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

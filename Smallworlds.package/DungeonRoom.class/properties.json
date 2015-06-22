@@ -1,0 +1,15 @@
+{
+	"category" : "Smallworlds-Extras",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltendeMelo 4/26/2015 13:06",
+	"instvars" : [
+		"location",
+		"position" ],
+	"name" : "DungeonRoom",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

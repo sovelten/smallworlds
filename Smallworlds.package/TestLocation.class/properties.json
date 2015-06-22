@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltendeMelo 4/25/2015 23:29",
+	"instvars" : [
+		 ],
+	"name" : "TestLocation",
+	"pools" : [
+		 ],
+	"super" : "Location",
+	"type" : "normal" }

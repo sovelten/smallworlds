@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltendeMelo 5/3/2015 20:17",
+	"instvars" : [
+		 ],
+	"name" : "ParsedCommandDictionary",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

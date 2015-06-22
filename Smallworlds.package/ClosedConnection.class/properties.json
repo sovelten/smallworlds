@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		"closedMessage" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"closedDescription" ],
+	"name" : "ClosedConnection",
+	"pools" : [
+		 ],
+	"super" : "Connection",
+	"type" : "normal" }

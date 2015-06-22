@@ -1,0 +1,15 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"adjectives",
+		"actionHooks" ],
+	"name" : "Thing",
+	"pools" : [
+		 ],
+	"super" : "Describable",
+	"type" : "normal" }

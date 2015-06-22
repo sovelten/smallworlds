@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"new:" : "EricVeltendeMelo 4/20/2015 14:55" },
+	"instance" : {
+		"addLocation:" : "EricVeltendeMelo 4/21/2015 21:44",
+		"addLocation:at:" : "EricVeltendeMelo 4/17/2015 16:15",
+		"addLocation:at:at:" : "EricVeltendeMelo 4/21/2015 12:43",
+		"asMorph" : "EricVeltendeMelo 4/26/2015 12:27",
+		"bounds" : "EricVeltendeMelo 4/20/2015 17:27",
+		"bounds:" : "EricVeltendeMelo 4/20/2015 17:27",
+		"connect:to:of:" : "EricVeltendeMelo 4/21/2015 17:36",
+		"emptySlotsAt:at:" : "EricVeltendeMelo 4/22/2015 10:05",
+		"hasEmptyNeighbor:" : "EricVeltendeMelo 4/22/2015 12:25",
+		"initialize:" : "EricVeltendeMelo 4/21/2015 21:45",
+		"locationMatrix" : "EricVeltendeMelo 4/21/2015 21:52",
+		"locations" : "EricVeltendeMelo 4/21/2015 21:48",
+		"neighborsAt:at:" : "EricVeltendeMelo 4/20/2015 16:56",
+		"origin" : "EricVeltendeMelo 4/20/2015 17:27",
+		"origin:" : "EricVeltendeMelo 4/20/2015 17:27" } }

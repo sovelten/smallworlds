@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltendeMelo 4/25/2015 23:30",
+	"instvars" : [
+		 ],
+	"name" : "TestWorld",
+	"pools" : [
+		 ],
+	"super" : "GameWorld",
+	"type" : "normal" }

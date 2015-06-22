@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connections" ],
+	"name" : "Location",
+	"pools" : [
+		 ],
+	"super" : "Container",
+	"type" : "normal" }

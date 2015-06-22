@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"drop" : "EricVeltendeMelo 5/1/2015 20:31",
+		"exit" : "EricVeltendeMelo 5/1/2015 20:31",
+		"go" : "EricVeltendeMelo 5/1/2015 20:54",
+		"inventory" : "EricVeltendeMelo 5/1/2015 20:31",
+		"look" : "EricVeltendeMelo 5/1/2015 20:31",
+		"name:" : "EricVeltendeMelo 5/10/2015 08:26",
+		"name:synonyms:" : "EricVeltendeMelo 5/10/2015 08:55",
+		"say" : "EricVeltendeMelo 5/1/2015 20:31",
+		"take" : "EricVeltendeMelo 5/1/2015 20:31" },
+	"instance" : {
+		"hasSynonym:" : "EricVeltendeMelo 5/10/2015 09:36",
+		"name" : "EricVeltendeMelo 5/1/2015 20:31",
+		"name:" : "EricVeltendeMelo 5/1/2015 20:31",
+		"synonyms" : "EricVeltendeMelo 5/1/2015 20:31",
+		"synonyms:" : "EricVeltendeMelo 5/1/2015 20:31" } }

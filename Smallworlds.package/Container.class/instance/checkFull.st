@@ -1,0 +1,3 @@
+initialization
+checkFull
+	^false

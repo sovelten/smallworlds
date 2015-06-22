@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"action" ],
+	"name" : "EventParsingFailed",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		"opposites",
+		"points" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "Direction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

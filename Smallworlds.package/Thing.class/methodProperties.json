@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addHook:for:" : "EricVeltendeMelo 5/16/2015 19:11",
+		"addHooks:" : "EricVeltendeMelo 5/23/2015 17:01",
+		"adjectives" : "EricVeltendeMelo 5/7/2015 17:26",
+		"adjectives:" : "EricVeltendeMelo 5/11/2015 21:51",
+		"checkLit" : "EricVeltendeMelo 5/18/2015 18:34",
+		"hasAdjective:" : "EricVeltendeMelo 5/9/2015 08:41",
+		"initialize" : "EricVeltendeMelo 5/16/2015 19:03",
+		"isLit" : "EricVeltendeMelo 5/18/2015 15:44",
+		"isUnlit" : "EricVeltendeMelo 5/18/2015 15:43",
+		"printOn:" : "EricVeltendeMelo 5/8/2015 17:11",
+		"replace:" : "EricVeltendeMelo 5/15/2015 19:49",
+		"setAdjective:" : "EricVeltendeMelo 5/11/2015 21:09",
+		"showAdjectives" : "EricVeltendeMelo 5/9/2015 08:32",
+		"showFull" : "EricVeltendeMelo 5/9/2015 08:36",
+		"unsetAdjective:" : "EricVeltendeMelo 5/11/2015 21:09" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfSmallworlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfSmallworlds",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

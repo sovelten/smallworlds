@@ -1,0 +1,1 @@
+An action dictionary is a dictionary mapping strings to actions. It helps a parser transform a user input into a valid action.

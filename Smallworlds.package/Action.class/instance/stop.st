@@ -1,0 +1,3 @@
+changing
+stop
+	wasStopped := true.

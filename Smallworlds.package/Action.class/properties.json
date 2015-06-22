@@ -1,0 +1,18 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		"signature" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"actor",
+		"arguments",
+		"parsedArguments",
+		"responses",
+		"wasStopped" ],
+	"name" : "Action",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

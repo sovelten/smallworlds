@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltendeMelo 5/4/2015 16:03",
+	"instvars" : [
+		 ],
+	"name" : "ParsingError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

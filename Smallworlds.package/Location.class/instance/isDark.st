@@ -1,0 +1,3 @@
+setting
+isDark
+	self isUnlit

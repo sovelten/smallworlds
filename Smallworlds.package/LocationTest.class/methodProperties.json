@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "EricVeltendeMelo 4/25/2015 22:01",
+		"testConnectionDescription" : "EricVeltendeMelo 4/25/2015 21:42",
+		"testIsEastOf" : "EricVeltendeMelo 5/11/2015 20:58",
+		"testIsNorthOf" : "EricVeltendeMelo 5/11/2015 21:00",
+		"testIsSouthOf" : "EricVeltendeMelo 5/11/2015 21:00",
+		"testIsWestOf" : "EricVeltendeMelo 5/11/2015 21:01",
+		"testOpenConnections" : "EricVeltendeMelo 4/13/2015 20:08" } }

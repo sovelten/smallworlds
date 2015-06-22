@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "EricVeltendeMelo 6/1/2015 13:35",
+		"anyContentMatching:ifFound:ifNone:" : "EricVeltendeMelo 5/31/2015 20:11",
+		"checkContainer" : "EricVeltendeMelo 5/17/2015 16:15",
+		"checkFull" : "EricVeltendeMelo 5/18/2015 18:04",
+		"checkLit" : "EricVeltendeMelo 5/18/2015 18:34",
+		"checkOpen" : "EricVeltendeMelo 5/31/2015 19:57",
+		"contains:" : "EricVeltendeMelo 3/25/2015 16:31",
+		"contents" : "EricVeltendeMelo 5/9/2015 09:41",
+		"contents:" : "EricVeltendeMelo 5/9/2015 09:42",
+		"contentsButPlayer" : "EricVeltendeMelo 5/11/2015 21:56",
+		"contentsMatching:" : "EricVeltendeMelo 5/31/2015 20:12",
+		"deepAnyContentMatching:ifFound:ifNone:" : "EricVeltendeMelo 5/31/2015 20:41",
+		"deepContentsMatching:" : "EricVeltendeMelo 5/18/2015 15:15",
+		"initialize" : "EricVeltendeMelo 5/31/2015 19:49",
+		"remove:" : "EricVeltendeMelo 3/25/2015 16:51",
+		"selectContents:thenShow:" : "EricVeltendeMelo 5/11/2015 19:09",
+		"showContents" : "EricVeltendeMelo 5/11/2015 17:45",
+		"showContentsButPlayer" : "EricVeltendeMelo 5/11/2015 21:59",
+		"showContentsIf:" : "EricVeltendeMelo 5/11/2015 17:43",
+		"showContentsIf:with:" : "EricVeltendeMelo 5/11/2015 17:48",
+		"showContentsWith:" : "EricVeltendeMelo 5/11/2015 17:26",
+		"showWithContents" : "EricVeltendeMelo 5/9/2015 09:15" } }

@@ -1,0 +1,1 @@
+A ParsingError happens when a parser can not successfully parse a string.

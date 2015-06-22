@@ -1,0 +1,3 @@
+private
+defaultFileName
+	^'World.stb'

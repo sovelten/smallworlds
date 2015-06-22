@@ -1,0 +1,17 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"announcer",
+		"location",
+		"parser",
+		"inventory" ],
+	"name" : "Actor",
+	"pools" : [
+		 ],
+	"super" : "Thing",
+	"type" : "normal" }

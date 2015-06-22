@@ -1,0 +1,15 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"article",
+		"plural" ],
+	"name" : "Noun",
+	"pools" : [
+		 ],
+	"super" : "Word",
+	"type" : "normal" }

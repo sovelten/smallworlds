@@ -1,0 +1,1 @@
+An abstract parser class.

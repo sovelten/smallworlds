@@ -1,0 +1,3 @@
+accessing
+parseArguments
+	^self subclassResponsibility
