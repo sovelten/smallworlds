@@ -1,3 +1,3 @@
-initialization
+checking
 checkOpen
-	^true
+	^(self hasAdjective: 'close') not

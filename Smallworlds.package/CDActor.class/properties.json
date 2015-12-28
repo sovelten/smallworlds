@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-CloakOfDarkness",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CDActor",
+	"pools" : [
+		 ],
+	"super" : "Actor",
+	"type" : "normal" }

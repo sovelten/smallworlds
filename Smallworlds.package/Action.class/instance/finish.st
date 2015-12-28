@@ -1,0 +1,3 @@
+changing
+finish
+	status := #finished.

@@ -1,0 +1,3 @@
+container
+checkOpen
+	^false

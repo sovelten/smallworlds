@@ -1,3 +1,3 @@
 instance creation
 go
-	^ self signature: #go:
+	^ TVerb signature: #go:

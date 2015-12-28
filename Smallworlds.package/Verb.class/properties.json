@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"signature" ],
+		"signatures" ],
 	"name" : "Verb",
 	"pools" : [
 		 ],
-	"super" : "Word",
+	"super" : "Object",
 	"type" : "normal" }

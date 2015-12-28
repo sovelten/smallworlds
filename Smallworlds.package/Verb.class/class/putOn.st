@@ -1,3 +1,3 @@
 instance creation
 putOn
-	^self signature: #put:on:
+	^TIVerb signature: #put:on:

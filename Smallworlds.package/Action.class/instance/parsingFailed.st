@@ -1,3 +1,3 @@
 accessing
 parsingFailed
-	^Response text:'Parsing failed'
+	^'Parsing failed'

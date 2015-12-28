@@ -1,4 +1,4 @@
-command
+parsing
 close: aString
 	| connections |
 

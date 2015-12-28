@@ -1,3 +1,7 @@
 running
 executeDefault
-	^actor perform: self class signature withArguments: self parsedArguments
+	| response |
+	hooks do: [ :each | each value: self ].
+	response := actor perform: self callback withArguments: self arguments asArray.
+	self addResponse: response.
+	self finish.

@@ -1,3 +1,3 @@
-command
+parsing
 say: aString
-	^aString
+	^ActionHook object: aString

@@ -1,3 +1,3 @@
 accessing
 parseArguments
-	^self subclassResponsibility
+	^actor perform: self signature withArguments: self arguments asArray.

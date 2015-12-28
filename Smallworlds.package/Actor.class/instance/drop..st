@@ -1,5 +1,4 @@
-command
-drop: item
-	self inventory remove: item.
-	self location add: item.
-	^item noun name, ' dropped.'
+parsing
+drop: aString
+	^self parseHeld: aString
+		   fail: (ActionHook response: 'You don''t have a ', aString)

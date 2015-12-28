@@ -1,3 +1,3 @@
-initialization
+checking
 checkFull
 	^false

@@ -1,0 +1,3 @@
+changing
+wasStopped
+	^status = #stopped.

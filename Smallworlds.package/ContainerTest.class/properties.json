@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"box" ],
+		"box",
+		"candy",
+		"bucket" ],
 	"name" : "ContainerTest",
 	"pools" : [
 		 ],

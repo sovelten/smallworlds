@@ -1,10 +1,11 @@
-command
-put: item on: container
-	
-	container checkContainer
-		ifTrue: [
-			self inventory remove: item.
-			container add: item.
-			^'You put ', item noun showDefinite, ' on ', container noun showDefinite.
+parsing
+put: string1 on: string2
+	^self inventory anyContentMatching: string1
+		ifFound: [ :item |
+			self location anyVisibleContentMatching: string2
+				ifFound: [ :container |
+					ActionHook objects: (Array with: item with: container).
+				]
+				ifNone: [ ActionHook response: 'I don''t understand ', string1 ]
 		]
-		ifFalse: [ ^'You can''t put ', item noun showDefinite, ' on ', container noun showDefinite ]
+		ifNone: [ ActionHook response: 'You don''t have a ', string2 ]

@@ -6,4 +6,4 @@ parse: aString
 		ifSucceeded: [ :action | 
 			(action actor:self) execute.
 		]
-		ifFailed: [ Response text: 'Could not understand command.' ]
+		ifFailed: [ 'Could not understand command.' ]

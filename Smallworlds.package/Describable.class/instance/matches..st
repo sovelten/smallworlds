@@ -1,6 +1,5 @@
 selecting
 matches: aString
-	| pattern |
-	
-	pattern := '*', aString, '*'.
-	^(pattern match: self noun name) | (pattern match: self shortDescription)
+	^self asParser end matches: aString.
+	"pattern := '*', aString, '*'.
+	^(pattern match: self noun name) | (pattern match: self shortDescription)"

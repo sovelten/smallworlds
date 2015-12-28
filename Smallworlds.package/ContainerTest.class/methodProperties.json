@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "EricVeltendeMelo 5/9/2015 09:28",
+		"setUp" : "EricVeltendeMelo 12/25/2015 15:01",
 		"testAdd" : "EricVeltendeMelo 5/9/2015 09:50",
+		"testAllContents" : "EricVeltendeMelo 12/25/2015 16:17",
 		"testCheckLit" : "EricVeltendeMelo 5/19/2015 16:33",
-		"testDeepContentsMatching" : "EricVeltendeMelo 5/31/2015 20:22",
-		"testDeepContentsMatchingIfFoundIfNone" : "EricVeltendeMelo 5/31/2015 20:19" } }
+		"testDeepContentsMatchingIfFoundIfNone" : "EricVeltendeMelo 5/31/2015 20:19",
+		"testVisibleContents" : "EricVeltendeMelo 12/25/2015 16:17",
+		"testVisibleContentsMatching" : "EricVeltendeMelo 12/25/2015 17:06" } }

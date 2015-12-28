@@ -5,4 +5,6 @@ setUp
 		
 	bottle := Item
 			name: 'bottle'
-			description: 'small bottle'
+			description: 'small bottle'.
+			
+	world := TestWorld default.

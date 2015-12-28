@@ -4,8 +4,9 @@ initialize
 	
 	self setAdjective: 'hangable'.
 
-	longDescription := 'A handsome cloak, of velvet trimmed with satin, and slighlty splattered with raindrops. Its blackness is so deep that it almost seems to suck light from the room.'.
-	shortDescription := longDescription.
+	noun := Noun name:'cloak'.
+	self longDescription: 'A handsome cloak, of velvet trimmed with satin, and slighlty splattered with raindrops. Its blackness is so deep that it almost seems to suck light from the room.'.
+	self shortDescription: longDescription.
 
 	self addHook:
 		[ :action |
@@ -18,7 +19,7 @@ initialize
 
 	self addHook:
 		[ :action |
-			(action parsedArguments second showName = 'hook') ifTrue:
+			(action arguments second showName = 'hook') ifTrue:
 			[
 				action actor incrementScore.
 			]

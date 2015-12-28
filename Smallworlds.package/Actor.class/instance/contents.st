@@ -1,3 +1,3 @@
-container protocol
+container
 contents
 	^self inventory contents.

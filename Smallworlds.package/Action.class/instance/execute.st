@@ -1,17 +1,17 @@
 running
 execute
-	self parseArguments
+	self parseArguments value: self.
+	self wasParsed
 		ifTrue: [ 
 			self receiveHooks.
-	
-			wasStopped ifFalse: [ 
-				self addResponse: self executeDefault.
+			self wasStopped ifFalse: [ 
+				self executeDefault.
 			].
-			^self respond
+		^self respond
 		]
 		ifFalse:  [ 
 			actor announcer announce: (EventParsingFailed action: self).
-			wasStopped ifFalse: [
+			self wasStopped ifFalse: [
 				^self parsingFailed
 			]
 			ifTrue: [ 

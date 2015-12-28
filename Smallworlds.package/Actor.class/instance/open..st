@@ -1,7 +1,7 @@
 command
 open: aString
 	| connections |
-
+	"TODO"
 	connections := self location connectionsTo: aString.
 	connections size = 0 ifTrue: [ ^Response text: 'What are you trying to open?' ].
 

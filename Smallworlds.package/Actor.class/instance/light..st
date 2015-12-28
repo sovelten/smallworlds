@@ -1,7 +1,7 @@
 command
 light: aString
 	| items wasLit |
-
+	"TODO"
 	wasLit := self location lighted.
 	items := self contentsMatching: aString.
 	items size > 0

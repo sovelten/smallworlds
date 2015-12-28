@@ -1,0 +1,3 @@
+changing
+wasParsed
+	^status = #parsed.

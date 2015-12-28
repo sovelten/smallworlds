@@ -1,5 +1,3 @@
 instance creation
 look
-	^self
-		signature: #look
-		synonyms: Word look synonyms
+	^ IVerb signatures: #(#look #describe #examine #l)

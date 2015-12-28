@@ -1,6 +1,8 @@
-tests-command
+tests-parsing
 testTake
-	player location add: bottle.
-	player take: bottle.
-	self assert: (player inventory contents first noun name = 'bottle').
-	self deny: (player location contents includes: bottle)
+	| objects |
+	objects := world player inventory contentsMatching: 'lamp'.
+	self assert: objects size = 0.
+	world parse: 'take lamp'.
+	objects := world player inventory contentsMatching: 'lamp'.
+	self assert: objects size = 1.

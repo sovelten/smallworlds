@@ -3,11 +3,11 @@ signature: aSignature
 	| num |
 	num := aSignature numArgs.
 	num = 0 ifTrue: [
-		^Action signature: aSignature
+		^IAction signature: aSignature
 	].
 	num = 1 ifTrue: [
-		SingleObjectAction signature: aSignature
+		^TAction signature: aSignature
 	].
 	num = 2 ifTrue: [
-		Action signature: aSignature
+		^TIAction signature: aSignature
 	]

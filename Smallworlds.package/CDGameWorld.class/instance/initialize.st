@@ -1,6 +1,6 @@
 initialization
 initialize
-| foyer cloakroom bar  |
+| foyer cloakroom bar |
 super initialize.
 
 foyer := Location name:'Foyer'
@@ -11,7 +11,7 @@ cloakroom := Location name: 'Cloakroom'
 	shortDescription: 'Cloak Room'
 	longDescription: 'The walls of this small room were clearly once lined with hooks, though now only one remains. The exit is a door to the east.'.
 	
-cloakroom add: (Hook name:'hook').
+cloakroom add: (Hook new).
 	
 bar := Bar new initialize.
 
@@ -24,8 +24,8 @@ foyer addConnection:
 		' to be getting worse.'
 	).
 
-self player: (Actor defaultActor location: foyer).
-player inventory add: (Cloak name:'cloak').
+self player: (CDActor defaultPlayer location: foyer).
+player inventory add: (Cloak new).
 
 self addLocation: foyer.
 self addLocation: bar.

@@ -1,3 +1,3 @@
 selecting
 contentsMatching: aString
-	^self contents select: [ :each | each matches: aString ]
+	^self contents: self contents matching: aString

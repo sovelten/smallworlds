@@ -1,12 +1,8 @@
-command
-go: aConnection
-	(aConnection hasAdjective: 'closed') not
-			ifTrue: [
-				self location: (aConnection destination).
-				^self look
-			]
-			ifFalse: [
-				^aConnection closedDescription
-			].
-	
-	^'There is no passage this way'
+parsing
+go: aString
+	| connections |
+
+	connections := self location connectionsTo: aString.
+	^connections
+		ifEmpty: [ ActionHook object: ClosedConnection invalid ]
+		ifNotEmpty:[ ActionHook object: connections first ]

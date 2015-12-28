@@ -4,6 +4,8 @@ initialize
 	capacity := 1.
 	
 	noun := Noun name:'hook'.
+	self shortDescription: 'It''s just a small brass hook'.
+	self longDescription: 'It''s just a small brass hook'.
 	
 	self addHook:
 		[ :action |
@@ -13,7 +15,7 @@ initialize
 					action stop.
 				]
 				ifFalse: [  
-					(action parsedArguments first hasAdjective:'hangable')
+					(action arguments first hasAdjective:'hangable')
 						ifFalse: [  
 							action addResponse: 'You can''t hang this.'.
 							action stop.	

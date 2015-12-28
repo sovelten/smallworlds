@@ -1,0 +1,1 @@
+A SWPetitParserTest is a test class for testing the behavior of SWPetitParser

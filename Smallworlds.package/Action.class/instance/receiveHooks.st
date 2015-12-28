@@ -1,6 +1,6 @@
 accessing
 receiveHooks
-	self parsedArguments do: [ :object |
+	self arguments do: [ :object |
 		object addHooks: self.
 	].
 	actor location addHooks: self.

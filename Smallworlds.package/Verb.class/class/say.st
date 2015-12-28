@@ -1,3 +1,3 @@
 instance creation
 say
-	^ self signature: #say synonyms: Word say synonyms
+	^ TVerb signatures: #(#say: #speak: #talk:)

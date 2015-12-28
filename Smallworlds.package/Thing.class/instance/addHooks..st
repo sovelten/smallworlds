@@ -1,7 +1,7 @@
 reacting
 addHooks: anAction
 
-	actionHooks at: anAction class signature
+	actionHooks at: anAction signature
 	ifPresent: [ :modifier |
 		modifier value: anAction.
 	]

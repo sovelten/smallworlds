@@ -4,5 +4,5 @@ parse: aString
 	turnCount := turnCount + 1.
 	
 	^parser parse: aString
-		ifSucceeded: [ :action | self execute: action ]
+		ifSucceeded: [ :action | (action actor:self) execute ]
 		ifFailed: [ player parse: aString ]

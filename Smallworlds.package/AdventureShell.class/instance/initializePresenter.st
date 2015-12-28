@@ -5,6 +5,6 @@ initializePresenter
 		responseString := world parse: textInput text.
 		"responseString := String new initialize."
 		"responses do: [ :each | responseString := responseString, String crlf, each text ]."
-		textOutput text: responseString text.	
+		textOutput text: responseString.	
 		textInput  text: ''.
 	].

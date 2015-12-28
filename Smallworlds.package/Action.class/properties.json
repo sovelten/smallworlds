@@ -6,11 +6,13 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"signature",
+		"callback",
 		"actor",
 		"arguments",
-		"parsedArguments",
+		"hooks",
 		"responses",
-		"wasStopped" ],
+		"status" ],
 	"name" : "Action",
 	"pools" : [
 		 ],

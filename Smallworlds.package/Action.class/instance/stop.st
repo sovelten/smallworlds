@@ -1,3 +1,4 @@
 changing
 stop
-	wasStopped := true.
+	status := #stopped.
+	Transcript show: 'Action halted.'

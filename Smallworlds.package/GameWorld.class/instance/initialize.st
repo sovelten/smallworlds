@@ -3,7 +3,11 @@ initialize
 	super initialize.
 	locations := OrderedCollection new.
 	turnCount := 0.
-	parser := CommandParser new.
+	parser := SWPetitParser new.
 	parser
-		abbreviations: ParsedCommandDictionary new initialize;
-		verbs: (VerbDictionary fromStrings: #('save' 'restore'))
+		abbreviations: AbbreviationDictionary new;
+		verbs: (OrderedCollection
+					with: (IVerb signature:#save)
+					with: (IVerb signature:#restore)
+		);
+		setParser

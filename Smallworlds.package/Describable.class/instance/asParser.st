@@ -1,0 +1,3 @@
+selecting
+asParser
+	^noun asParserWithArticle.

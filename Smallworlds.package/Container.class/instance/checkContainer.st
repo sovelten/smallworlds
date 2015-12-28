@@ -1,3 +1,3 @@
-initialization
+checking
 checkContainer
 	^true

@@ -1,6 +1,10 @@
-tests-command
+tests-parsing
 testLook
-	| desc locdesc |
-	desc := player look.
-	locdesc := player location longDescription.
-	self assert: (desc = player location longDescription).
+	| response |
+	response := world parse: 'look lamp'.
+	Transcript crShow: response.
+	self assert: (response = 'old-fashioned oil lamp').
+	world player inventory add: bottle.
+	response := world parse: 'look bottle'.
+	self assert: (response = 'small bottle').
+	Transcript crShow: response.

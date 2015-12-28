@@ -5,5 +5,6 @@ testVisibleItems
 	player inventory add: bottle.
 	player location add: ball.
 	visible := player visibleItems.
-	self assert: visible size = 2
+	Transcript crShow: visible.
+	self assert: visible size = 4
 	

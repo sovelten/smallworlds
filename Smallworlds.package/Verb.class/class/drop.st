@@ -1,3 +1,3 @@
 instance creation
 drop
-	^ self signature: #drop: synonyms: Word drop synonyms
+	^TVerb signatures: #(#drop: #dump: #lose:)
