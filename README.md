@@ -1,5 +1,7 @@
 # Smallworlds
-An interactive fiction framework in Pharo Smalltalk
+An interactive fiction framework in Pharo Smalltalk.
+
+The Framework is based on the Smallworlds package for Dolphin Smalltalk (http://ftp.sunet.se/pub/lang/smalltalk/Dolphin/SmallWorlds/) from Bob Jarvis. But it has changed to the point of becoming something else entirely.
 
 ## Installing
 
@@ -23,4 +25,6 @@ To open the cloak of darkness sample, execute the following code:
 
     (AdventureShell world: (CDGameWorld new)) openWithSpec.
 
+## Development
 
+The development branch is currently at http://smalltalkhub.com/#!/~ericvm/Smallworlds. It is being moved to GitHub as it gets more stable.
