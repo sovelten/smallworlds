@@ -1,0 +1,1 @@
+This is the main game object. It holds all other objects in the game.

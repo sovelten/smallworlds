@@ -1,8 +1,11 @@
 tests-changing
 setUp
 	world := TestWorld default.
-	actor := Actor defaultActor.
-	lookIAction := IAction signature: #look.
+	actor := Actor defaultActor location: world locations first.
+	world player: actor.
+	lookIAction := Action look.
 	lookIAction actor: actor.
-	dropTAction := TAction signature: #drop:.
+	dropTAction := Action drop.
 	dropTAction actor: actor.
+	putOnTIAction := Action putOn.
+	putOnTIAction actor: actor.

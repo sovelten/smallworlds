@@ -9,7 +9,8 @@
 		"lookIAction",
 		"actor",
 		"dropTAction",
-		"world" ],
+		"world",
+		"putOnTIAction" ],
 	"name" : "ActionTest",
 	"pools" : [
 		 ],

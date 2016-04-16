@@ -1,0 +1,1 @@
+A closed connection is not accessible. Instead of going somewhere, the closedDescription is shown to the player.

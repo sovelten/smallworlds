@@ -1,0 +1,1 @@
+A limited container can only contain a certain quantity of things inside it.

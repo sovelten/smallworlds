@@ -1,3 +1,3 @@
 accessing
 setParser
-	parser := verbs asChoiceParser.
+	parser := actions asChoiceParser.

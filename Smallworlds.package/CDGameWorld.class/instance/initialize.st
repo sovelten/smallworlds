@@ -31,7 +31,7 @@ self addLocation: foyer.
 self addLocation: bar.
 self addLocation: cloakroom.
 
-player announcer
+"player announcer
 	when: EventParsingFailed 
 	send: #checkStumbling:
-	to: bar.
+	to: bar."

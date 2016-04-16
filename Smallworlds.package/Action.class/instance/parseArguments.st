@@ -1,3 +1,5 @@
 accessing
 parseArguments
-	^actor perform: self signature withArguments: self arguments asArray.
+	|  objects |
+	objects := self objectsInScope value: actor.
+	self parseDefault.

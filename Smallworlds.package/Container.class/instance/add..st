@@ -4,4 +4,4 @@ add: anObject
 
 	self contents add: anObject.
 	anObject owner: self.
-	^Response text: 'OK'
+	^'OK'

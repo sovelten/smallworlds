@@ -1,5 +1,5 @@
 tests-changing
 testWasParsed
 	self assert: (lookIAction wasParsed = false).
-	lookIAction status: #parsed.
+	lookIAction parseArguments.
 	self assert: (lookIAction wasParsed = true)

@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"world" ],
+		"world",
+		"bottle" ],
 	"name" : "GameWorldTest",
 	"pools" : [
 		 ],

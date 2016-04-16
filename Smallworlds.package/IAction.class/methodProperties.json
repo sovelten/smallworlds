@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"parses:" : "EricVeltendeMelo 5/22/2015 19:07" },
+		 },
 	"instance" : {
-		"parseArguments" : "EricVeltendeMelo 12/15/2015 18:39",
-		"parsingFailed" : "EricVeltendeMelo 12/15/2015 17:34" } }
+		"asParser" : "EricVeltenDeMelo 3/2/2016 17:41",
+		"parseDefault" : "EricVeltendeMelo 12/31/2015 13:07",
+		"parseSignature:" : "EricVeltendeMelo 1/23/2016 09:24" } }

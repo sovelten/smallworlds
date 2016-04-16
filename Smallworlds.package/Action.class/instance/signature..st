@@ -1,3 +1,3 @@
 accessing
-signature: anObject
-	signature := anObject
+signature: aSymbol
+	signatures := OrderedCollection with: aSymbol

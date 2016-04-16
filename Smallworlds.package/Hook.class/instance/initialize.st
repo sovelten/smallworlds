@@ -3,7 +3,7 @@ initialize
 	super initialize.
 	capacity := 1.
 	
-	noun := Noun name:'hook'.
+	noun := Noun root:'hook'.
 	self shortDescription: 'It''s just a small brass hook'.
 	self longDescription: 'It''s just a small brass hook'.
 	

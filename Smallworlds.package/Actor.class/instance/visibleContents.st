@@ -1,3 +1,3 @@
 container
 visibleContents
-	^self inventory visibleContents.
+	^(OrderedCollection withAll: self inventory visibleContents) add: self; yourself.

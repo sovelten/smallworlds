@@ -2,13 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "EricVeltendeMelo 12/25/2015 13:01",
-		"testDoDrop" : "EricVeltendeMelo 12/15/2015 17:53",
+		"setUp" : "EricVeltenDeMelo 2/10/2016 16:28",
+		"testDoDrop" : "EricVeltendeMelo 12/29/2015 15:42",
 		"testDoGo" : "EricVeltendeMelo 12/26/2015 08:28",
 		"testDoLook" : "EricVeltendeMelo 12/25/2015 12:59",
 		"testDoPutOn" : "EricVeltendeMelo 12/16/2015 14:48",
-		"testDoTake" : "EricVeltendeMelo 12/15/2015 19:51",
-		"testLook" : "EricVeltendeMelo 12/25/2015 17:15",
-		"testParse" : "EricVeltendeMelo 5/23/2015 17:04",
-		"testTake" : "EricVeltendeMelo 12/25/2015 18:11",
-		"testVisibleItems" : "EricVeltendeMelo 12/25/2015 17:21" } }
+		"testDoTake" : "EricVeltendeMelo 12/29/2015 15:42",
+		"testHeldItems" : "EricVeltenDeMelo 2/10/2016 16:37",
+		"testLocationItems" : "EricVeltenDeMelo 2/10/2016 16:36",
+		"testVisibleItems" : "EricVeltenDeMelo 2/10/2016 16:42" } }

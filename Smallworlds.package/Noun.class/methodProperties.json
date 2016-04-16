@@ -1,15 +1,19 @@
 {
 	"class" : {
-		"root:" : "EricVeltendeMelo 5/10/2015 09:43",
-		"root:plural:" : "EricVeltendeMelo 5/10/2015 09:44" },
+		"root:" : "EricVeltendeMelo 12/29/2015 11:30",
+		"root:plural:" : "EricVeltendeMelo 12/29/2015 11:21" },
 	"instance" : {
+		"addSynonym:" : "EricVeltendeMelo 12/29/2015 11:19",
 		"article" : "EricVeltendeMelo 5/8/2015 17:04",
 		"article:" : "EricVeltendeMelo 5/8/2015 16:23",
-		"asParser" : "EricVeltendeMelo 12/25/2015 12:46",
+		"asParser" : "EricVeltendeMelo 12/29/2015 11:15",
 		"asParserWithArticle" : "EricVeltendeMelo 12/25/2015 12:47",
-		"name:" : "EricVeltendeMelo 5/8/2015 17:35",
-		"plural" : "EricVeltendeMelo 5/8/2015 16:31",
+		"hasSynonym:" : "EricVeltendeMelo 12/29/2015 11:16",
+		"name" : "EricVeltendeMelo 12/29/2015 12:22",
+		"plural" : "EricVeltendeMelo 12/29/2015 11:31",
 		"plural:" : "EricVeltendeMelo 5/8/2015 16:23",
 		"show" : "EricVeltendeMelo 5/8/2015 16:53",
-		"showDefinite" : "EricVeltendeMelo 5/8/2015 16:50",
-		"showIndefinite" : "EricVeltendeMelo 5/8/2015 16:52" } }
+		"showDefinite" : "EricVeltendeMelo 12/29/2015 12:00",
+		"showIndefinite" : "EricVeltendeMelo 12/29/2015 12:00",
+		"synonyms" : "EricVeltendeMelo 12/29/2015 11:05",
+		"synonyms:" : "EricVeltendeMelo 12/29/2015 11:05" } }

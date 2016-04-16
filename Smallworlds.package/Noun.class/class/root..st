@@ -1,3 +1,4 @@
 as yet unclassified
 root: aString
-	^super name: aString
+	^self new
+		synonyms: (OrderedCollection with: aString)

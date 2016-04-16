@@ -1,17 +1,18 @@
-as yet unclassified
+*Smallworlds-CloakOfDarkness
 cloakOfDarkness
 	^self new
 		abbreviations: AbbreviationDictionary defaultDictionary;
-		verbs: (OrderedCollection new
-			add: Verb drop;
-			add: Verb exit;
-			add: Verb go;
-			add: Verb inventory;
-			add: Verb look;
-			add: Verb lookAt;
-			add: Verb putOn;
-			add: Verb say;
-			add: Verb take;
-			add: Verb read;
+		actions: (OrderedCollection new
+			add: Action drop;
+			add: Action exit;
+			add: Action go;
+			add: Action inventory;
+			add: Action look;
+			add: Action lookAt;
+			add: Action putOn;
+			add: Action say;
+			add: Action take;
+			add: Action read;
+			add: Action score;
 			yourself);
 		setParser

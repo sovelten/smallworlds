@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"cloakOfDarkness" : "EricVeltendeMelo 12/27/2015 22:58",
-		"defaultParser" : "EricVeltendeMelo 12/27/2015 22:44" },
+		"cloakOfDarkness" : "EricVeltenDeMelo 4/16/2016 13:22",
+		"defaultParser" : "EricVeltenDeMelo 2/5/2016 12:48" },
 	"instance" : {
 		"abbreviations" : "EricVeltendeMelo 12/14/2015 08:17",
 		"abbreviations:" : "EricVeltendeMelo 12/14/2015 08:17",
+		"actions" : "EricVeltenDeMelo 2/5/2016 12:47",
+		"actions:" : "EricVeltenDeMelo 2/5/2016 12:48",
 		"initialize" : "EricVeltendeMelo 12/14/2015 08:39",
 		"parse:ifFailed:" : "EricVeltendeMelo 12/25/2015 21:35",
 		"parser" : "EricVeltendeMelo 12/14/2015 08:17",
 		"parser:" : "EricVeltendeMelo 12/14/2015 08:17",
-		"setParser" : "EricVeltendeMelo 12/14/2015 08:45",
-		"verbs" : "EricVeltendeMelo 12/14/2015 08:17",
-		"verbs:" : "EricVeltendeMelo 12/14/2015 08:17" } }
+		"setParser" : "EricVeltenDeMelo 2/5/2016 12:47" } }

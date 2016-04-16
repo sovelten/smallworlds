@@ -8,7 +8,9 @@
 	"instvars" : [
 		"player",
 		"bottle",
-		"world" ],
+		"world",
+		"box",
+		"pencil" ],
 	"name" : "ActorTest",
 	"pools" : [
 		 ],

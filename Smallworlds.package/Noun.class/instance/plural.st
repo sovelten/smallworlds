@@ -1,4 +1,4 @@
 accessing
 plural
-	plural ifNil: [^name,'s'].
+	plural ifNil: [^synonyms first,'s'].
 	^plural

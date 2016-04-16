@@ -4,7 +4,7 @@ default
 
 	| loc1 loc2 loc3 loc4 world |
 	
-	world := TestWorld new initialize.
+	world := super default.
 
 	loc1 := TestLocation redRoom
 			longDescription: 'You have entered a room with bright red walls.  An arched portico leads north.'.

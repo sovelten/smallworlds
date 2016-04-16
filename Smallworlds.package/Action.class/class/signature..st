@@ -1,4 +1,4 @@
-accessing
+instance creation
 signature: aSymbol
 	| callback |
 	callback := ('do', aSymbol capitalized) asSymbol.

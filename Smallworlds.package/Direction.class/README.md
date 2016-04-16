@@ -1,0 +1,1 @@
+A direction is a cardinal point: north, south, east or west.

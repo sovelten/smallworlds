@@ -1,3 +1,3 @@
 command
 doShowInventory
-	^self showInventory
+	^self inventory showWithContents

@@ -1,4 +1,4 @@
-as yet unclassified
+checking
 checkLit	
 	(self visibleContentsMatching: 'cloak') ifNotEmpty: [  
 		^false

@@ -1,6 +1,0 @@
-as yet unclassified
-asParser
-	| parsers |
-	parsers := signatures collect: [ :each | self parseSignature: each  ].
-	^(PPChoiceParser withAll: parsers) end
-		==> [ :objs | TIAction signature: self signature objects: objs ]

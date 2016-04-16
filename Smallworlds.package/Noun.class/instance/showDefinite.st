@@ -1,3 +1,3 @@
 accessing
 showDefinite
-	^'the ', self name
+	^'the ', self synonyms first

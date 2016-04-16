@@ -1,0 +1,1 @@
+Noun represents a single noun, with acceptable synonyms and forms of parsing it and presenting it as a string.

@@ -5,4 +5,4 @@ addHooks: anAction
 	ifPresent: [ :modifier |
 		modifier value: anAction.
 	]
-	ifAbsent: []
+	ifAbsent: [ self interrupt: anAction ]

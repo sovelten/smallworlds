@@ -1,3 +1,3 @@
 accessing
 showIndefinite
-	^self article, ' ', self name
+	^self article, ' ', self synonyms first

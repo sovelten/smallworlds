@@ -1,0 +1,1 @@
+A Location is a kind of container that represents a place in the game. It may have connections to other places.

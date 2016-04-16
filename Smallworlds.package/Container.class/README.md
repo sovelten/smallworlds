@@ -1,0 +1,1 @@
+A Container is a kind of thing that can hold other things inside it.

@@ -2,5 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "EricVeltendeMelo 4/13/2015 18:37",
-		"testParse" : "EricVeltendeMelo 12/21/2015 18:13" } }
+		"setUp" : "EricVeltendeMelo 1/23/2016 09:05",
+		"testParse" : "EricVeltendeMelo 1/23/2016 09:07",
+		"testParseGo" : "EricVeltenDeMelo 3/3/2016 10:35",
+		"testParseLook" : "EricVeltenDeMelo 3/3/2016 14:24",
+		"testParseTake" : "EricVeltenDeMelo 3/3/2016 14:21" } }

@@ -1,3 +1,3 @@
 checking
 checkIsAt: aString
-	^aString = location noun name
+	^aString = location name

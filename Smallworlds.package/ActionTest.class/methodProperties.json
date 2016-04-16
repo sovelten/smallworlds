@@ -2,7 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "EricVeltendeMelo 12/25/2015 18:03",
+		"setUp" : "EricVeltenDeMelo 3/17/2016 17:37",
+		"testFailMessage" : "EricVeltenDeMelo 3/24/2016 18:03",
 		"testParseArguments" : "EricVeltendeMelo 12/25/2015 18:04",
-		"testWasParsed" : "EricVeltendeMelo 12/15/2015 17:25",
+		"testWasParsed" : "EricVeltenDeMelo 1/15/2016 18:10",
 		"testWasStopped" : "EricVeltendeMelo 12/15/2015 18:34" } }

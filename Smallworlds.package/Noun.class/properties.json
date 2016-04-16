@@ -4,12 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "EricVeltenDeMelo 4/15/2016 16:05",
 	"instvars" : [
+		"synonyms",
 		"article",
 		"plural" ],
 	"name" : "Noun",
 	"pools" : [
 		 ],
-	"super" : "Word",
+	"super" : "Object",
 	"type" : "normal" }

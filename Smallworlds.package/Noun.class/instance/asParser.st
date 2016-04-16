@@ -1,3 +1,3 @@
 accessing
 asParser
-	^self allSynonyms asChoiceParser.
+	^self synonyms asChoiceParser.

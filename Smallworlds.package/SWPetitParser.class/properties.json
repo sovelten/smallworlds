@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "EricVeltenDeMelo 4/14/2016 10:48",
 	"instvars" : [
 		"abbreviations",
-		"verbs",
-		"parser" ],
+		"parser",
+		"actions" ],
 	"name" : "SWPetitParser",
 	"pools" : [
 		 ],

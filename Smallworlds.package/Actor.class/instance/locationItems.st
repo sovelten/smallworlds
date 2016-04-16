@@ -1,4 +1,4 @@
-private
+action scope
 locationItems
-	"Returns a coolection of all things available for player interaction, including self"
-	^self location contents
+	"Returns a coolection of all things available for player interaction, excluding the player"
+	^self location contentsButPlayer

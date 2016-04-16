@@ -4,7 +4,7 @@ initialize
 	
 	self setAdjective: 'hangable'.
 
-	noun := Noun name:'cloak'.
+	noun := Noun root:'cloak'.
 	self longDescription: 'A handsome cloak, of velvet trimmed with satin, and slighlty splattered with raindrops. Its blackness is so deep that it almost seems to suck light from the room.'.
 	self shortDescription: longDescription.
 
