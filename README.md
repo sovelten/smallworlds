@@ -23,7 +23,7 @@ Make sure the dependencies are met.
 
 To open the cloak of darkness sample, execute the following code:
 
-    (AdventureShell world: (CDGameWorld new)) openWithSpec.
+    (AdventureShell world: CDGameWorld default) openWithSpec.
 
 ## Development
 
