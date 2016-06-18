@@ -6,7 +6,7 @@ dungeon
 	
 	world := TestWorld new initialize.
 
-	gen := DungeonFactory locations: TestLocation disconnectedLocations.
+	gen := DungeonFactory locationPicker: (RandomPicker with: TestLocation redRoom).
 	dungeon := gen generate2d: 30.
 
 	world player: (Actor name: 'player'

@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:25",
+	"instvars" : [
+		"responses" ],
+	"name" : "SimpleAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

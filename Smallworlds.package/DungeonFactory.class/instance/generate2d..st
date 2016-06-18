@@ -4,14 +4,13 @@ generate2d: n
 	| newLocation openRoom pos dungeon  size slot |
 	
 	dungeon := Dungeon new: 20.
-	dungeon
-		addLocation: locations atRandom copy at: dungeon origin.
+	dungeon addLocation: (DungeonRoom location: locationPicker atRandom at: dungeon origin).
 	
 	size := n-1.
 	
 	1 to: size do: [ :x | 
 		"Select a location to add to dundeon"
-		newLocation := locations atRandom copy.
+		newLocation := locationPicker atRandom.
 		"Select a location with open connections in the dungeon"
 		openRoom := self selectRandomLocation: dungeon.
 		pos := openRoom position.

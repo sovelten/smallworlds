@@ -1,7 +1,11 @@
 tests-as yet unclassified
 testParse
 	| action |
-	self assert: ((parser parse:'look') class = IAction).
-	action := parser parse:'get item'.
-	self assert: ((parser parse:'get item') class = TAction).
-	self assert: ((parser parse:'get item') arguments first = 'item')
+	action := parser parse:'look'.
+	self assert: action verb signature equals: #look.
+	action := parser parse:'take item'.
+	self assert: action respond equals: (Verb take failMessageBlock value:'item').
+	location add: (Thing name: 'ball').
+	action := parser parse: 'get ball'.
+	self assert: action verb signature equals: #take:.
+	self assert: action verb arguments first text equals: 'ball'.

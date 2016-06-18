@@ -1,1 +1,1 @@
-Class side contains methods that return simple PetitParser parsers
+Class side contains methods that return useful PetitParser parsers

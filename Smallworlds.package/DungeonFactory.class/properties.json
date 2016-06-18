@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "EricVeltendeMelo 4/26/2015 13:06",
 	"instvars" : [
-		"locations" ],
+		"locationPicker" ],
 	"name" : "DungeonFactory",
 	"pools" : [
 		 ],

@@ -1,0 +1,3 @@
+accessing
+inventoryDescription
+	^ self show

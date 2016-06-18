@@ -4,19 +4,16 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "EricVeltenDeMelo 4/14/2016 10:53",
+	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:29",
 	"instvars" : [
-		"actor",
-		"signatures",
+		"verb",
 		"callback",
-		"objectsInScope",
-		"failMessageBlock",
-		"arguments",
+		"actor",
+		"things",
 		"hooks",
-		"responses",
 		"status" ],
 	"name" : "Action",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SimpleAction",
 	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"verbParser" ],
+	"name" : "VerbParserTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

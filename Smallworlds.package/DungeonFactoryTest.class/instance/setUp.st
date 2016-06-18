@@ -1,4 +1,4 @@
 tests-accessing
 setUp
 
-	generator := DungeonFactory locations: TestLocation disconnectedLocations
+	generator := DungeonFactory locationPicker: (RandomPicker with: {TestLocation redRoom})

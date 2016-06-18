@@ -15,7 +15,7 @@ initialize
 					action stop.
 				]
 				ifFalse: [  
-					(action arguments first hasAdjective:'hangable')
+					(action things first hasAdjective:'hangable')
 						ifFalse: [  
 							action addResponse: 'You can''t hang this.'.
 							action stop.	

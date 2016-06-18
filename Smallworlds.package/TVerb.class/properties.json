@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:52",
+	"instvars" : [
+		 ],
+	"name" : "TVerb",
+	"pools" : [
+		 ],
+	"super" : "Verb",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 addLocation: aDungeonLocation
 	| pos |
 	

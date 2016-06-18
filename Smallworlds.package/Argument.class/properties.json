@@ -1,0 +1,16 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:23",
+	"instvars" : [
+		"items",
+		"text",
+		"choice" ],
+	"name" : "Argument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

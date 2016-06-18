@@ -1,6 +1,5 @@
 initialization
 initialize
-	responses := OrderedCollection new.
-	arguments := OrderedCollection new.
+	super initialize.
 	hooks := OrderedCollection new.
-	status := #unparsed.
+	status := #started.

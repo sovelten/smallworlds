@@ -1,0 +1,17 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:56",
+	"instvars" : [
+		"signatures",
+		"arguments",
+		"objectsInScope",
+		"failMessageBlock" ],
+	"name" : "Verb",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

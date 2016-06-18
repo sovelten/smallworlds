@@ -1,3 +1,6 @@
 tests-as yet unclassified
 setUp
-	parser := SWPetitParser defaultParser
+	parser := MainParser default.
+	location := TestLocation redRoom.
+	actor := Actor defaultActor location: location.
+	parser actor: actor.

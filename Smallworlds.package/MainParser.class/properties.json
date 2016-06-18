@@ -1,0 +1,17 @@
+{
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltenDeMelo 4/14/2016 10:48",
+	"instvars" : [
+		"verbParser",
+		"argumentsParser",
+		"actor",
+		"mode" ],
+	"name" : "MainParser",
+	"pools" : [
+		 ],
+	"super" : "SimpleCommandParser",
+	"type" : "normal" }

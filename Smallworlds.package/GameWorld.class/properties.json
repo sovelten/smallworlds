@@ -9,7 +9,9 @@
 		"locations",
 		"parser",
 		"player",
-		"turnCount" ],
+		"turnCount",
+		"log",
+		"lastAction" ],
 	"name" : "GameWorld",
 	"pools" : [
 		 ],

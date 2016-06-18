@@ -19,7 +19,7 @@ initialize
 
 	self addHook:
 		[ :action |
-			(action arguments second showName = 'hook') ifTrue:
+			(action things second showName = 'hook') ifTrue:
 			[
 				action actor incrementScore.
 			]

@@ -1,3 +1,3 @@
 as yet unclassified
 word
-	^#letter asParser plus flatten
+	^(#letter asParser,  (#letter asParser / '-' asParser) star) flatten

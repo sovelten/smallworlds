@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"parser" ],
+		"parser",
+		"actor",
+		"location" ],
 	"name" : "SWPetitParserTest",
 	"pools" : [
 		 ],

@@ -1,5 +1,5 @@
 tests-changing
 testWasStopped
-	self assert: (lookIAction wasStopped = false).
+	self deny: lookIAction wasStopped.
 	lookIAction stop.
-	self assert: (lookIAction wasStopped = true)
+	self assert: lookIAction wasStopped

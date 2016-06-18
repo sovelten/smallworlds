@@ -1,3 +1,0 @@
-private
-defaultFileName
-	^'World.stb'

@@ -1,0 +1,14 @@
+{
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IVerbTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

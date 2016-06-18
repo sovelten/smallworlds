@@ -1,0 +1,3 @@
+accessing
+checkParsed
+	^choice isNotNil

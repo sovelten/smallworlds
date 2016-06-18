@@ -13,7 +13,7 @@ cloakroom := Location name: 'Cloakroom'
 	
 cloakroom add: (Hook new).
 	
-bar := Bar new initialize.
+bar := Bar new.
 
 bar isSouthOf: foyer.
 cloakroom isWestOf: foyer.
@@ -24,6 +24,7 @@ foyer addConnection:
 		' to be getting worse.'
 	).
 
+self parser: (MainParser new verbParser: VerbParser cloakOfDarkness).
 self player: (CDActor defaultPlayer location: foyer).
 player inventory add: (Cloak new).
 

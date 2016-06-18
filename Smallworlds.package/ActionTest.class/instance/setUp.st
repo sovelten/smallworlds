@@ -3,9 +3,6 @@ setUp
 	world := TestWorld default.
 	actor := Actor defaultActor location: world locations first.
 	world player: actor.
-	lookIAction := Action look.
-	lookIAction actor: actor.
-	dropTAction := Action drop.
-	dropTAction actor: actor.
-	putOnTIAction := Action putOn.
-	putOnTIAction actor: actor.
+	lookIAction := Action verb: Verb look actor: actor.
+	dropTAction := Action verb: Verb drop actor: actor.
+	putOnTIAction := Action verb: Verb putOn actor: actor.

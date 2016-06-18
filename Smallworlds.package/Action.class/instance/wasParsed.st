@@ -1,3 +1,0 @@
-changing
-wasParsed
-	^status = #parsed.

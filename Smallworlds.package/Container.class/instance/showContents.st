@@ -1,3 +1,3 @@
 printing
 showContents
-	^(self contents collect: [ :item | item showWithTab ]) joinUsing: String crlf.
+	^self showContentsWith: [ :item | String tab, item show ].

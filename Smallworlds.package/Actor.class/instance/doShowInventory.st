@@ -1,3 +1,3 @@
 command
 doShowInventory
-	^self inventory showWithContents
+	^self inventory showDefinite, ' has:', String crlf, self inventory showInventory.

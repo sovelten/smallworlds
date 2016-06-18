@@ -1,3 +1,3 @@
 printing
 showContentsWith: showBlock
-	^String crlf join: (contents collect: showBlock)
+	^self showContentsWith: showBlock joinWith: String crlf

@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 addLocation: aLocation at: x at: y
 	| loc |
 	

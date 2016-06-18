@@ -1,0 +1,15 @@
+{
+	"category" : "Smallworlds-Extras",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:07",
+	"instvars" : [
+		"values",
+		"randomGen" ],
+	"name" : "RandomPicker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

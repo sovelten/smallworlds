@@ -1,3 +1,0 @@
-accessing
-parseDefault
-	self subclassResponsibility
