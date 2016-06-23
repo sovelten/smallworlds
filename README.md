@@ -37,4 +37,4 @@ To open the cloak of darkness sample, execute the following code:
 
 ## Development
 
-The development branch is currently at http://smalltalkhub.com/#!/~ericvm/Smallworlds. I don't recommend using it, though, it is often unstable. I commit to GitHub when it gets stable enough.
+The development branch is currently at ```http://smalltalkhub.com/#!/~ericvm/Smallworlds```. I don't recommend using it, though, it is often unstable. I commit to GitHub when it gets stable enough.
