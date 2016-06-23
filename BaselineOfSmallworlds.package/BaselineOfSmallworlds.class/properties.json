@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSmallworlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSmallworlds",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
