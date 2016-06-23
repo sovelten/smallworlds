@@ -10,6 +10,5 @@ baseline: spec
 					repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main';
 					versionString: #stable
 				];
-			package: 'Smallworlds' with: [ spec requires: 'PetitParser' ];
-			package: 'Smallworlds-CloakOfDarkness'.
+			package: 'Smallworlds' with: [ spec requires: 'PetitParser' ]
 	]
