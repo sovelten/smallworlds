@@ -5,9 +5,18 @@ The Framework is based on the Smallworlds package for Dolphin Smalltalk (http://
 
 ## Installing
 
-###Pharo 4 and above (Using Gitfiletree)
+There is more than one way to install the package. The easier way is using Metacello.
 
-There is more than one way to install the package. I will detail one possibility.
+### Using Metacello
+
+Open the Playground and execute the following command:
+
+    Metacello new
+	    repository: 'github://ericvm/smallworlds';
+	    baseline: 'Smallworlds';
+	    load.
+
+### Using Gitfiletree (For development)
 
 Smallworlds depends on PetitParser and Spec for the GUI window. Spec comes with Pharo 4 and above.
 Make sure the dependencies are met.
