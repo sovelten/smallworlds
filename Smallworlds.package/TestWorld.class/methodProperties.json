@@ -1,6 +1,7 @@
 {
+	"instance" : { },
 	"class" : {
-		"default" : "EricVeltenDeMelo 3/3/2016 18:00",
-		"dungeon" : "EricVeltenDeMelo 5/19/2016 22:29" },
-	"instance" : {
-		 } }
+		"dungeon" : "EricVeltenDeMelo 5/19/2016 22:29",
+		"default" : "EricVeltenDeMelo 3/3/2016 18:00"
+	}
+}

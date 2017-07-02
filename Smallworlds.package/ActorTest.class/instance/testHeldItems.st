@@ -5,5 +5,5 @@ testHeldItems
 	box add: bottle.
 	player location add: box.
 	items := player heldItems.
-	self assert: items size = 1.
-	self assert: items first name = 'pencil'.
+	self assert: items size equals: 1.
+	self assert: items first equals: pencil

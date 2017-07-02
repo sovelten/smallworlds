@@ -1,17 +1,20 @@
 {
+	"instance" : {
+		"printOn:" : "EricVeltendeMelo 4/13/2015 20:28",
+		"opposite" : "EricVeltendeMelo 4/13/2015 20:43",
+		"asPoint" : "EricVeltendeMelo 4/21/2015 17:31",
+		"name:" : "EricVeltendeMelo 4/13/2015 20:27"
+	},
 	"class" : {
 		"asPoint:" : "EricVeltendeMelo 4/21/2015 21:09",
 		"east" : "EricVeltendeMelo 4/13/2015 20:30",
-		"fromPoint:" : "EricVeltendeMelo 4/22/2015 13:10",
+		"west" : "EricVeltendeMelo 4/13/2015 20:30",
 		"initialize" : "EricVeltendeMelo 4/26/2015 12:21",
-		"name:" : "EricVeltendeMelo 4/13/2015 20:46",
-		"north" : "EricVeltendeMelo 4/13/2015 20:30",
-		"opposite:" : "EricVeltendeMelo 4/21/2015 21:19",
 		"oppositeString:" : "EricVeltendeMelo 4/13/2015 20:56",
 		"south" : "EricVeltendeMelo 4/13/2015 20:30",
-		"west" : "EricVeltendeMelo 4/13/2015 20:30" },
-	"instance" : {
-		"asPoint" : "EricVeltendeMelo 4/21/2015 17:31",
-		"name:" : "EricVeltendeMelo 4/13/2015 20:27",
-		"opposite" : "EricVeltendeMelo 4/13/2015 20:43",
-		"printOn:" : "EricVeltendeMelo 4/13/2015 20:28" } }
+		"north" : "EricVeltendeMelo 4/13/2015 20:30",
+		"fromPoint:" : "EricVeltendeMelo 4/22/2015 13:10",
+		"opposite:" : "EricVeltendeMelo 4/21/2015 21:19",
+		"name:" : "EricVeltendeMelo 4/13/2015 20:46"
+	}
+}

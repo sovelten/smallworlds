@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"testAdd" : "EricVeltenDeMelo 5/22/2016 12:15",
-		"testAddAll" : "EricVeltenDeMelo 5/16/2016 22:05" } }
+		"testAddAll" : "EricVeltenDeMelo 5/16/2016 22:05"
+	},
+	"class" : { }
+}

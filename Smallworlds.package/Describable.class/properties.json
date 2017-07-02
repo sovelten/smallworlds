@@ -1,18 +1,17 @@
 {
-	"category" : "Smallworlds-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltendeMelo 12/28/2015 18:52",
+	"super" : "Object",
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"owner",
 		"noun",
 		"longDescription",
 		"shortDescription",
-		"longDescriptionSeen" ],
+		"longDescriptionSeen"
+	],
 	"name" : "Describable",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

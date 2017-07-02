@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"world",
+		"bottle"
+	],
+	"name" : "SmallWorldTest",
+	"type" : "normal"
+}

@@ -1,11 +1,14 @@
 {
-	"class" : {
-		"eastTo:" : "EricVeltendeMelo 4/21/2015 21:13",
-		"name:to:" : "EricVeltendeMelo 5/10/2015 08:16",
-		"northTo:" : "EricVeltendeMelo 4/21/2015 21:13",
-		"southTo:" : "EricVeltendeMelo 4/21/2015 21:13",
-		"through:to:" : "EricVeltendeMelo 4/25/2015 22:26",
-		"westTo:" : "EricVeltendeMelo 4/21/2015 21:13" },
 	"instance" : {
 		"destination" : "EricVeltendeMelo 5/9/2015 20:54",
-		"destination:" : "EricVeltendeMelo 5/9/2015 20:54" } }
+		"destination:" : "EricVeltendeMelo 5/9/2015 20:54"
+	},
+	"class" : {
+		"northTo:" : "EricVeltendeMelo 4/21/2015 21:13",
+		"through:to:" : "EricVeltendeMelo 4/25/2015 22:26",
+		"name:to:" : "EricVeltendeMelo 5/10/2015 08:16",
+		"eastTo:" : "EricVeltendeMelo 4/21/2015 21:13",
+		"westTo:" : "EricVeltendeMelo 4/21/2015 21:13",
+		"southTo:" : "EricVeltendeMelo 4/21/2015 21:13"
+	}
+}

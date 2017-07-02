@@ -1,14 +1,13 @@
 {
-	"category" : "Smallworlds-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltendeMelo 12/28/2015 18:58",
-	"instvars" : [
-		"destination" ],
-	"name" : "Connection",
-	"pools" : [
-		 ],
 	"super" : "Thing",
-	"type" : "normal" }
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"destination"
+	],
+	"name" : "Connection",
+	"type" : "normal"
+}

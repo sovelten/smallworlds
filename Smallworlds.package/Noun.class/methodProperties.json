@@ -1,20 +1,23 @@
 {
-	"class" : {
-		"root:" : "EricVeltendeMelo 12/29/2015 11:30",
-		"root:plural:" : "EricVeltendeMelo 12/29/2015 11:21" },
 	"instance" : {
-		"addSynonym:" : "EricVeltendeMelo 12/29/2015 11:19",
-		"article" : "EricVeltendeMelo 5/8/2015 17:04",
-		"article:" : "EricVeltendeMelo 5/8/2015 16:23",
 		"asParser" : "EricVeltenDeMelo 5/21/2016 13:10",
-		"asParserWithArticle" : "EricVeltendeMelo 12/25/2015 12:47",
-		"hasSynonym:" : "EricVeltendeMelo 12/29/2015 11:16",
-		"name" : "EricVeltendeMelo 12/29/2015 12:22",
-		"parseSynonym:" : "EricVeltenDeMelo 5/21/2016 13:06",
-		"plural" : "EricVeltendeMelo 12/29/2015 11:31",
-		"plural:" : "EricVeltendeMelo 5/8/2015 16:23",
-		"show" : "EricVeltendeMelo 5/8/2015 16:53",
-		"showDefinite" : "EricVeltendeMelo 12/29/2015 12:00",
 		"showIndefinite" : "EricVeltendeMelo 12/29/2015 12:00",
+		"parseSynonym:" : "EricVeltenDeMelo 5/21/2016 13:06",
+		"name" : "EricVeltendeMelo 12/29/2015 12:22",
+		"article" : "EricVeltendeMelo 5/8/2015 17:04",
+		"plural" : "EricVeltendeMelo 12/29/2015 11:31",
 		"synonyms" : "EricVeltendeMelo 12/29/2015 11:05",
-		"synonyms:" : "EricVeltendeMelo 12/29/2015 11:05" } }
+		"addSynonym:" : "EricVeltendeMelo 12/29/2015 11:19",
+		"showDefinite" : "EricVeltendeMelo 12/29/2015 12:00",
+		"plural:" : "EricVeltendeMelo 5/8/2015 16:23",
+		"article:" : "EricVeltendeMelo 5/8/2015 16:23",
+		"show" : "EricVeltendeMelo 5/8/2015 16:53",
+		"synonyms:" : "EricVeltendeMelo 12/29/2015 11:05",
+		"hasSynonym:" : "EricVeltendeMelo 12/29/2015 11:16",
+		"asParserWithArticle" : "EricVeltendeMelo 12/25/2015 12:47"
+	},
+	"class" : {
+		"root:plural:" : "EricVeltendeMelo 12/29/2015 11:21",
+		"root:" : "EricVeltendeMelo 12/29/2015 11:30"
+	}
+}

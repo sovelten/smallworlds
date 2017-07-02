@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SimpleAction",
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"block"
+	],
+	"name" : "BlockAction",
+	"type" : "normal"
+}

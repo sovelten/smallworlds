@@ -4,6 +4,6 @@ testDoLook
 	"Test look"
 	desc := player doLook lines first.
 	locdesc := player location longDescription.
-	self assert: desc = player location longDescription.
+	self assert: desc equals: locdesc.
 	"Test look:"
-	self assert: (player doLook: bottle) = (bottle longDescription)
+	self assert: (player doLook: bottle) equals: bottle longDescription

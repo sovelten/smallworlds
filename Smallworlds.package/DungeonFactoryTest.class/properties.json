@@ -1,18 +1,17 @@
 {
-	"category" : "Smallworlds-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"generator",
 		"location1",
 		"location2",
 		"location3",
-		"location4" ],
+		"location4"
+	],
 	"name" : "DungeonFactoryTest",
-	"pools" : [
-		 ],
-	"super" : "TestCase",
-	"type" : "normal" }
+	"type" : "normal"
+}

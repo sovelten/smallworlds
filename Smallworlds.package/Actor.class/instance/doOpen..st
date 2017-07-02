@@ -5,5 +5,5 @@ doOpen: container
 	]
 	ifFalse: [ 
 		container open.
-		^'You opened ', container showDefinite	 
+		^'You opened ', container showDefinite
 	]

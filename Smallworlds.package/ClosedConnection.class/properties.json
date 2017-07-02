@@ -1,14 +1,15 @@
 {
+	"commentStamp" : "EricVeltendeMelo 12/28/2015 19:00",
+	"super" : "Connection",
 	"category" : "Smallworlds-Core",
 	"classinstvars" : [
-		"closedMessage" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "EricVeltendeMelo 12/28/2015 19:00",
+		"closedMessage"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"closedDescription" ],
+		"closedDescription"
+	],
 	"name" : "ClosedConnection",
-	"pools" : [
-		 ],
-	"super" : "Connection",
-	"type" : "normal" }
+	"type" : "normal"
+}

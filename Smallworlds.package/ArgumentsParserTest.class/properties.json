@@ -1,14 +1,13 @@
 {
-	"category" : "Smallworlds-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"actor" ],
-	"name" : "ArgumentsParserTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"actor"
+	],
+	"name" : "ArgumentsParserTest",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SmallWorld",
+	"category" : "Smallworlds-CloakOfDarkness",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CDSmallWorld",
+	"type" : "normal"
+}

@@ -1,16 +1,15 @@
 {
-	"category" : "Smallworlds-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"parser",
 		"actor",
-		"location" ],
+		"location"
+	],
 	"name" : "SWPetitParserTest",
-	"pools" : [
-		 ],
-	"super" : "TestCase",
-	"type" : "normal" }
+	"type" : "normal"
+}

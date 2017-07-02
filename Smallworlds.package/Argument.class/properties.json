@@ -1,16 +1,15 @@
 {
-	"category" : "Smallworlds-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:23",
+	"super" : "Object",
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"items",
 		"text",
-		"choice" ],
+		"choice"
+	],
 	"name" : "Argument",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

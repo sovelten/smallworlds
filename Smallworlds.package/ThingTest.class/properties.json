@@ -1,14 +1,13 @@
 {
-	"category" : "Smallworlds-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"ball" ],
-	"name" : "ThingTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ball"
+	],
+	"name" : "ThingTest",
+	"type" : "normal"
+}

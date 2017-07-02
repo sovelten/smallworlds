@@ -1,14 +1,13 @@
 {
-	"category" : "Smallworlds-CloakOfDarkness",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"message" ],
-	"name" : "Bar",
-	"pools" : [
-		 ],
 	"super" : "Location",
-	"type" : "normal" }
+	"category" : "Smallworlds-CloakOfDarkness",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"message"
+	],
+	"name" : "Bar",
+	"type" : "normal"
+}

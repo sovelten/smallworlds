@@ -1,18 +1,17 @@
 {
-	"category" : "Smallworlds-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "Smallworlds-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"player",
 		"bottle",
 		"world",
 		"box",
-		"pencil" ],
+		"pencil"
+	],
 	"name" : "ActorTest",
-	"pools" : [
-		 ],
-	"super" : "TestCase",
-	"type" : "normal" }
+	"type" : "normal"
+}
