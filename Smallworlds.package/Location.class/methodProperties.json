@@ -1,22 +1,23 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"addConnection:" : "EricVeltendeMelo 3/26/2015 16:11",
-		"asMorph" : "EricVeltenDeMelo 6/18/2016 11:18",
+		"openConnections" : "EricVeltendeMelo 12/29/2015 15:45",
+		"isDark" : "EricVeltendeMelo 5/18/2015 15:44",
 		"connectionDescription" : "EricVeltendeMelo 12/29/2015 15:44",
-		"connections" : "EricVeltendeMelo 5/6/2015 17:48",
-		"connectionsTo:" : "EricVeltendeMelo 5/10/2015 09:52",
-		"darkDescription" : "EricVeltendeMelo 5/11/2015 20:41",
 		"description" : "EricVeltendeMelo 5/18/2015 18:34",
 		"fullDescription" : "EricVeltendeMelo 5/17/2015 13:40",
-		"initialize" : "EricVeltendeMelo 5/18/2015 18:45",
-		"isDark" : "EricVeltendeMelo 5/18/2015 15:44",
-		"isEastOf:" : "EricVeltendeMelo 5/11/2015 20:59",
-		"isNorthOf:" : "EricVeltendeMelo 5/11/2015 20:59",
+		"darkDescription" : "EricVeltendeMelo 5/11/2015 20:41",
+		"connectionsTo:" : "EricVeltendeMelo 5/10/2015 09:52",
+		"addConnection:" : "EricVeltendeMelo 3/26/2015 16:11",
 		"isSouthOf:" : "EricVeltendeMelo 5/11/2015 20:59",
+		"isEastOf:" : "EricVeltendeMelo 5/11/2015 20:59",
 		"isWestOf:" : "EricVeltendeMelo 5/11/2015 20:59",
-		"openConnections" : "EricVeltendeMelo 12/29/2015 15:45",
+		"initialize" : "EricVeltendeMelo 5/18/2015 18:45",
+		"asMorph" : "EricVeltenDeMelo 6/18/2016 11:18",
 		"removeConnection:" : "EricVeltendeMelo 3/26/2015 16:15",
+		"showContentsHere" : "EricVeltendeMelo 9/17/2015 17:31",
+		"connections" : "EricVeltendeMelo 5/6/2015 17:48",
 		"showContents" : "EricVeltendeMelo 5/18/2015 18:34",
-		"showContentsHere" : "EricVeltendeMelo 9/17/2015 17:31" } }
+		"isNorthOf:" : "EricVeltendeMelo 5/11/2015 20:59"
+	},
+	"class" : { }
+}

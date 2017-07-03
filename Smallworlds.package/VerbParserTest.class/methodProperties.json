@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"testParseIfFailed" : "EricVeltenDeMelo 6/14/2016 22:39",
 		"setUp" : "EricVeltenDeMelo 6/14/2016 22:25",
-		"testParse" : "EricVeltenDeMelo 6/14/2016 22:48",
-		"testParseIfFailed" : "EricVeltenDeMelo 6/14/2016 22:39" } }
+		"testParse" : "EricVeltenDeMelo 6/14/2016 22:48"
+	},
+	"class" : { }
+}

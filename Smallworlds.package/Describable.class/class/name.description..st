@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 name: aString description: aDescription
 	| theNoun |
 	theNoun := Noun root: aString.

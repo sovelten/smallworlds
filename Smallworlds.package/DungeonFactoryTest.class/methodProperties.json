@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"setUp" : "EricVeltenDeMelo 5/22/2016 12:12",
-		"testGenerate2d" : "EricVeltenDeMelo 5/22/2016 12:13" } }
+		"testGenerate2d" : "EricVeltenDeMelo 5/22/2016 12:13",
+		"setUp" : "EricVeltenDeMelo 5/22/2016 12:12"
+	},
+	"class" : { }
+}

@@ -1,11 +1,14 @@
 {
-	"class" : {
-		"defaultSpec" : "EricVeltendeMelo 3/29/2015 12:55",
-		"world:" : "EricVeltendeMelo 3/27/2015 17:31" },
 	"instance" : {
-		"initializePresenter" : "EricVeltenDeMelo 5/14/2016 10:14",
-		"initializeWidgets" : "EricVeltendeMelo 3/29/2015 13:27",
-		"textInput" : "EricVeltendeMelo 3/28/2015 13:19",
 		"textOutput" : "EricVeltendeMelo 3/28/2015 13:18",
 		"world" : "EricVeltendeMelo 3/27/2015 17:27",
-		"world:" : "EricVeltendeMelo 3/27/2015 17:27" } }
+		"world:" : "EricVeltendeMelo 3/27/2015 17:27",
+		"initializePresenter" : "EricVeltenDeMelo 5/14/2016 10:14",
+		"initializeWidgets" : "EricVeltendeMelo 3/29/2015 13:27",
+		"textInput" : "EricVeltendeMelo 3/28/2015 13:19"
+	},
+	"class" : {
+		"defaultSpec" : "EricVeltendeMelo 3/29/2015 12:55",
+		"world:" : "EricVeltendeMelo 3/27/2015 17:31"
+	}
+}

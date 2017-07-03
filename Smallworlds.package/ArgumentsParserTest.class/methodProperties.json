@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"setUp" : "EricVeltenDeMelo 6/15/2016 09:28",
 		"testAction" : "EricVeltenDeMelo 6/15/2016 21:02",
-		"testCheckParsed" : "EricVeltenDeMelo 6/15/2016 21:30" } }
+		"setUp" : "EricVeltenDeMelo 6/15/2016 09:28",
+		"testCheckParsed" : "EricVeltenDeMelo 6/15/2016 21:30"
+	},
+	"class" : { }
+}

@@ -1,17 +1,16 @@
 {
-	"category" : "Smallworlds-Extras",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltendeMelo 4/26/2015 13:04",
+	"super" : "Container",
+	"category" : "Smallworlds-Extras",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"locations",
 		"locationMatrix",
 		"origin",
-		"bounds" ],
+		"bounds"
+	],
 	"name" : "Dungeon",
-	"pools" : [
-		 ],
-	"super" : "Container",
-	"type" : "normal" }
+	"type" : "normal"
+}

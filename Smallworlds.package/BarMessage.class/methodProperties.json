@@ -1,7 +1,8 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"checkReadable" : "EricVeltendeMelo 9/25/2015 16:26",
+		"initialize" : "EricVeltenDeMelo 4/16/2016 13:42",
 		"increaseBlunderCount" : "EricVeltenDeMelo 6/16/2016 15:35",
-		"initialize" : "EricVeltenDeMelo 4/16/2016 13:42" } }
+		"checkReadable" : "EricVeltendeMelo 9/25/2015 16:26"
+	},
+	"class" : { }
+}

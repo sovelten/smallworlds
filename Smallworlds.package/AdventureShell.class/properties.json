@@ -1,16 +1,15 @@
 {
-	"category" : "Smallworlds-Spec",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Smallworlds-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"world",
 		"textOutput",
-		"textInput" ],
+		"textInput"
+	],
 	"name" : "AdventureShell",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

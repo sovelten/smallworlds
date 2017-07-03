@@ -1,11 +1,12 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"setUp" : "EricVeltendeMelo 4/25/2015 22:01",
 		"testConnectionDescription" : "EricVeltendeMelo 4/25/2015 21:42",
+		"testIsSouthOf" : "EricVeltendeMelo 5/11/2015 21:00",
+		"setUp" : "EricVeltendeMelo 4/25/2015 22:01",
+		"testIsWestOf" : "EricVeltendeMelo 5/11/2015 21:01",
 		"testIsEastOf" : "EricVeltendeMelo 5/11/2015 20:58",
 		"testIsNorthOf" : "EricVeltendeMelo 5/11/2015 21:00",
-		"testIsSouthOf" : "EricVeltendeMelo 5/11/2015 21:00",
-		"testIsWestOf" : "EricVeltendeMelo 5/11/2015 21:01",
-		"testOpenConnections" : "EricVeltendeMelo 4/13/2015 20:08" } }
+		"testOpenConnections" : "EricVeltendeMelo 4/13/2015 20:08"
+	},
+	"class" : { }
+}

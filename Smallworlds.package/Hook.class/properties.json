@@ -1,14 +1,11 @@
 {
-	"category" : "Smallworlds-CloakOfDarkness",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "Hook",
-	"pools" : [
-		 ],
 	"super" : "LimitedContainer",
-	"type" : "normal" }
+	"category" : "Smallworlds-CloakOfDarkness",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Hook",
+	"type" : "normal"
+}

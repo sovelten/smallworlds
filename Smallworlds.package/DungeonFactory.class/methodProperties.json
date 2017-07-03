@@ -1,8 +1,11 @@
 {
-	"class" : {
-		"locationPicker:" : "EricVeltenDeMelo 5/19/2016 22:25" },
 	"instance" : {
-		"generate2d:" : "EricVeltenDeMelo 5/19/2016 22:40",
+		"selectRandomLocation:" : "EricVeltendeMelo 4/22/2015 13:09",
 		"locationPicker" : "EricVeltenDeMelo 5/19/2016 22:24",
 		"locationPicker:" : "EricVeltenDeMelo 5/19/2016 22:24",
-		"selectRandomLocation:" : "EricVeltendeMelo 4/22/2015 13:09" } }
+		"generate2d:" : "EricVeltenDeMelo 5/19/2016 22:40"
+	},
+	"class" : {
+		"locationPicker:" : "EricVeltenDeMelo 5/19/2016 22:25"
+	}
+}

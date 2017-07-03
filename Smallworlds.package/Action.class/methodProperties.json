@@ -1,22 +1,25 @@
 {
-	"class" : {
-		"verb:actor:" : "EricVeltenDeMelo 6/16/2016 15:27" },
 	"instance" : {
-		"actor" : "EricVeltendeMelo 5/16/2015 15:30",
-		"actor:" : "EricVeltendeMelo 5/16/2015 15:30",
-		"addHook:" : "EricVeltendeMelo 12/14/2015 11:28",
-		"callback" : "EricVeltendeMelo 12/15/2015 16:35",
-		"callback:" : "EricVeltendeMelo 12/15/2015 16:35",
-		"execute" : "EricVeltenDeMelo 6/7/2016 00:35",
-		"executeDefault" : "EricVeltenDeMelo 6/16/2016 10:15",
-		"finish" : "EricVeltendeMelo 12/25/2015 13:14",
-		"initialize" : "EricVeltenDeMelo 6/18/2016 11:28",
-		"receiveHooks" : "EricVeltenDeMelo 6/16/2016 10:16",
-		"status" : "EricVeltendeMelo 12/15/2015 16:35",
-		"status:" : "EricVeltendeMelo 12/15/2015 16:35",
 		"stop" : "EricVeltenDeMelo 5/27/2016 16:39",
-		"things" : "EricVeltenDeMelo 6/16/2016 10:15",
-		"things:" : "EricVeltenDeMelo 6/16/2016 10:15",
-		"verb" : "EricVeltenDeMelo 6/7/2016 00:21",
+		"executeDefault" : "EricVeltenDeMelo 6/16/2016 10:15",
+		"status:" : "EricVeltendeMelo 12/15/2015 16:35",
 		"verb:" : "EricVeltenDeMelo 6/7/2016 00:21",
-		"wasStopped" : "EricVeltendeMelo 12/15/2015 17:24" } }
+		"actor:" : "EricVeltendeMelo 5/16/2015 15:30",
+		"receiveHooks" : "EricVeltenDeMelo 6/16/2016 10:16",
+		"things:" : "EricVeltenDeMelo 6/16/2016 10:15",
+		"execute" : "EricVeltenDeMelo 6/7/2016 00:35",
+		"callback:" : "EricVeltendeMelo 12/15/2015 16:35",
+		"initialize" : "EricVeltenDeMelo 6/18/2016 11:28",
+		"actor" : "EricVeltendeMelo 5/16/2015 15:30",
+		"finish" : "EricVeltendeMelo 12/25/2015 13:14",
+		"addHook:" : "EricVeltendeMelo 12/14/2015 11:28",
+		"status" : "EricVeltendeMelo 12/15/2015 16:35",
+		"verb" : "EricVeltenDeMelo 6/7/2016 00:21",
+		"callback" : "EricVeltendeMelo 12/15/2015 16:35",
+		"things" : "EricVeltenDeMelo 6/16/2016 10:15",
+		"wasStopped" : "EricVeltendeMelo 12/15/2015 17:24"
+	},
+	"class" : {
+		"verb:actor:" : "EricVeltenDeMelo 6/16/2016 15:27"
+	}
+}

@@ -1,15 +1,16 @@
 {
+	"commentStamp" : "EricVeltendeMelo 12/28/2015 19:04",
+	"super" : "Object",
 	"category" : "Smallworlds-Core",
 	"classinstvars" : [
 		"opposites",
-		"points" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "EricVeltendeMelo 12/28/2015 19:04",
+		"points"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"name" ],
+		"name"
+	],
 	"name" : "Direction",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

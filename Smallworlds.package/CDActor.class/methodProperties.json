@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
 		"doRead:" : "EricVeltendeMelo 12/16/2015 19:06",
-		"initialize" : "EricVeltendeMelo 9/25/2015 16:06" } }
+		"initialize" : "EricVeltendeMelo 9/25/2015 16:06"
+	},
+	"class" : { }
+}

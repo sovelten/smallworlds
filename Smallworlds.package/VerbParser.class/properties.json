@@ -1,16 +1,15 @@
 {
-	"category" : "Smallworlds-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:33",
+	"super" : "SimpleCommandParser",
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"verbs",
 		"abbreviations",
-		"parser" ],
+		"parser"
+	],
 	"name" : "VerbParser",
-	"pools" : [
-		 ],
-	"super" : "SimpleCommandParser",
-	"type" : "normal" }
+	"type" : "normal"
+}

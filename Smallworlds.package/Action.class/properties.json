@@ -1,19 +1,18 @@
 {
-	"category" : "Smallworlds-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltenDeMelo 6/18/2016 11:29",
+	"super" : "SimpleAction",
+	"category" : "Smallworlds-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"verb",
 		"callback",
 		"actor",
 		"things",
 		"hooks",
-		"status" ],
+		"status"
+	],
 	"name" : "Action",
-	"pools" : [
-		 ],
-	"super" : "SimpleAction",
-	"type" : "normal" }
+	"type" : "normal"
+}

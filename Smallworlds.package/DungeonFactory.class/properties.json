@@ -1,14 +1,13 @@
 {
-	"category" : "Smallworlds-Extras",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EricVeltendeMelo 4/26/2015 13:06",
-	"instvars" : [
-		"locationPicker" ],
-	"name" : "DungeonFactory",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Smallworlds-Extras",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"locationPicker"
+	],
+	"name" : "DungeonFactory",
+	"type" : "normal"
+}

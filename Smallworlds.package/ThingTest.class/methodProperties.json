@@ -1,9 +1,10 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"testShowFull" : "EricVeltendeMelo 5/11/2015 21:09",
 		"setUp" : "EricVeltendeMelo 5/9/2015 08:17",
-		"testAddAdjective" : "EricVeltendeMelo 5/11/2015 21:09",
-		"testHasAdjective" : "EricVeltendeMelo 5/11/2015 21:09",
 		"testShowAdjectives" : "EricVeltendeMelo 5/11/2015 21:09",
-		"testShowFull" : "EricVeltendeMelo 5/11/2015 21:09" } }
+		"testHasAdjective" : "EricVeltendeMelo 5/11/2015 21:09",
+		"testAddAdjective" : "EricVeltendeMelo 5/11/2015 21:09"
+	},
+	"class" : { }
+}

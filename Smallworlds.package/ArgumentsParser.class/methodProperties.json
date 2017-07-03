@@ -1,15 +1,18 @@
 {
-	"class" : {
-		"actor:verb:" : "EricVeltenDeMelo 6/14/2016 19:24" },
 	"instance" : {
+		"checkParsed" : "EricVeltenDeMelo 6/14/2016 23:12",
+		"verb:" : "EricVeltenDeMelo 6/13/2016 22:10",
+		"actor:" : "EricVeltenDeMelo 6/13/2016 21:54",
+		"parse:ifFailed:" : "EricVeltenDeMelo 6/15/2016 09:54",
+		"objectsMatching:" : "EricVeltenDeMelo 6/7/2016 23:55",
 		"action" : "EricVeltenDeMelo 6/15/2016 20:58",
 		"actor" : "EricVeltenDeMelo 6/13/2016 21:54",
-		"actor:" : "EricVeltenDeMelo 6/13/2016 21:54",
-		"checkFailed" : "EricVeltenDeMelo 6/14/2016 23:11",
-		"checkParsed" : "EricVeltenDeMelo 6/14/2016 23:12",
-		"fetchItems" : "EricVeltenDeMelo 6/15/2016 11:22",
-		"objectsMatching:" : "EricVeltenDeMelo 6/7/2016 23:55",
-		"parse:ifFailed:" : "EricVeltenDeMelo 6/15/2016 09:54",
-		"parseArgument:" : "EricVeltenDeMelo 6/12/2016 00:25",
 		"verb" : "EricVeltenDeMelo 6/13/2016 21:54",
-		"verb:" : "EricVeltenDeMelo 6/13/2016 22:10" } }
+		"fetchItems" : "EricVeltenDeMelo 6/15/2016 11:22",
+		"checkFailed" : "EricVeltenDeMelo 6/14/2016 23:11",
+		"parseArgument:" : "EricVeltenDeMelo 6/12/2016 00:25"
+	},
+	"class" : {
+		"actor:verb:" : "EricVeltenDeMelo 6/14/2016 19:24"
+	}
+}
