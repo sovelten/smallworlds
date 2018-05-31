@@ -1,3 +1,3 @@
-printing
-name
+converting
+asString
 	^self noun asString.
