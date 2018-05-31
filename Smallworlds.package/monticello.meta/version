@@ -1,8 +1,0 @@
-(name 'Smallworlds-EricVeltenDeMelo.8' message 'empty log message' id 'babd4aa9-bd0f-0d00-8d87-713e08dae3a7' date '2 July 2017' time '5:59:20.722166 pm' author 'EricVeltenDeMelo' ancestors ((name 'Smallworlds-Eric.7' message 'Soma changes
-' id 'f8786b5e-508a-548a-8321-28fa1cdd0676' date '2 July 2017' time '5:57:52 pm' author 'Eric' ancestors ((name 'Smallworlds-Eric.6' message 'Some changes
-' id '8144114f-7ee3-5c6b-a44a-4593d8181cbd' date '2 July 2017' time '5:52:55 pm' author 'Eric' ancestors ((name 'Smallworlds-Eric.5' message 'Several changes
-' id '8c738f8b-a91d-5736-9115-7c4b2698d0fd' date '2 July 2017' time '5:39:35 pm' author 'Eric' ancestors ((name 'Smallworlds-Eric.4' message 'Version 1.0
-' id '7aa57a49-2318-59bc-9878-dff31ba9eb73' date '18 June 2016' time '2:26:29 pm' author 'Eric' ancestors ((name 'Smallworlds-Eric.3' message 'Version 0.4
-' id 'ea90f4eb-f008-5d1d-b757-45b50dacb9f1' date '16 April 2016' time '12:36:34 pm' author 'Eric' ancestors ((name 'Smallworlds-Eric.2' message 'Version 0.3
-' id '3fb3771d-36de-5521-a231-7a4dd50a2e60' date '28 December 2015' time '2:03:13 pm' author 'Eric' ancestors ((name 'Smallworlds-Eric.1' message 'First commit
-' id '999cfc41-e910-53a9-95bb-63d39c658193' date '22 June 2015' time '8:54:31 pm' author 'Eric' ancestors () stepChildren ())) stepChildren ())) stepChildren ())) stepChildren ())) stepChildren ())) stepChildren ())) stepChildren ())) stepChildren ())
