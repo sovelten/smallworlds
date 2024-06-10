@@ -12,7 +12,7 @@ There is more than one way to install the package. The easier way is using Metac
 Open the Playground and execute the following command:
 
     Metacello new
-	    repository: 'github://ericvm/smallworlds';
+	    repository: 'github://sovelten/smallworlds';
 	    baseline: 'Smallworlds';
 	    load.
 
